@@ -1,0 +1,100 @@
+1,Classics,To Kill a Mockingbird,Harper Lee,16,03/11/2010
+2,Classics,Little Women,Louisa May Alcott,26,12/07/2010
+3,Classics,Vintage Beloved,Toni Morrison,9,23/05/2012
+4,Classics,Oliver Twist,Charles Dicken,10,24/07/2010
+5,Classics,A Christmas Carol,Charles Dicken,3,26/10/2013
+6,Classics,A Christmas Carol,Charles Dicken,3,26/10/2013
+7,Classics,A Christmas Carol,Charles Dicken,3,26/10/2013
+8,Action and Adventure,Life of Pi,Yann Martel,9,28/01/2016
+9,Action and Adventure,The Three Musketeers,Alexandre Dumas,13,07/09/2011
+10,Action and Adventure,Harry Potter and the Philosopher's Stone,J. K. Rowling,7.99,15/10/2018
+11,Action and Adventure,Harry Potter and the Philosopher's Stone,J. K. Rowling,7.99,15/10/2018
+12,Action and Adventure,Harry Potter and the Chamber of Secrets,J. K. Rowling,7.99,15/10/2018
+13,Action and Adventure,Harry Potter and the Chamber of Secrets,J. K. Rowling,7.99,15/10/2018
+14,Action and Adventure,Harry Potter and the Prisoner of Azkaban,J. K. Rowling,7.99,16/10/2018
+15,Action and Adventure,Harry Potter and the Prisoner of Azkaban,J. K. Rowling,7.99,16/10/2018
+16,Action and Adventure,Harry Potter and the Goblet of Fire,J. K. Rowling,8.99,17/10/2018
+17,Action and Adventure,Harry Potter and the Goblet of Fire,J. K. Rowling,8.99,17/10/2018
+18,Action and Adventure,Harry Potter and the Order of the Phoenix,J. K. Rowling,8.99,17/10/2018
+19,Action and Adventure,Harry Potter and the Half-Blood Prince,J. K. Rowling,8.99,17/10/2018
+20,Action and Adventure,Harry Potter and the Deathly Hallows,J. K. Rowling,9.99,18/10/2018
+21,Action and Adventure,Harry Potter and the Deathly Hallows,J. K. Rowling,9.99,18/10/2018
+22,Action and Adventure,Harry Potter and the Deathly Hallows,J. K. Rowling,9.99,18/10/2018
+23,Action and Adventure,Star Wars: Thrawn,Timothy Zahn,20,27/11/2017
+24,Action and Adventure,Star Wars: Brotherhood,Mike Chen,15.58,11/03/2022
+25,Action and Adventure,Star Wars: Master and Apprentice,Claudia Gray,8.99,12/08/2020
+26,Action and Adventure,Star Wars: Aftermath,Chuck Wendig,12,13/02/2016
+27,Detective and Mystery,The Adventures of Sherlock Holmes,Sir Arthur Conan Doyle,10,16/01/2011
+28,Detective and Mystery,Deadly Cross,James Patterson,10,21/02/2021
+29,Detective and Mystery,Fear No Evil,James Patterson,10,29/11/2021
+30,Detective and Mystery,Triple Cross,James Patterson,20,05/11/2022
+31,Detective and Mystery,Roses are Red,James Patterson,10,17/04/2010
+32,Detective and Mystery,Violets are Blue,James Patterson,10,17/04/2010
+33,Detective and Mystery,Cross,James Patterson,10,26/11/2010
+34,Detective and Mystery,Double Cross,James Patterson,10,26/11/2011
+35,Detective and Mystery,The Night Fire,Michael Connelly,9,18/07/2014
+36,Fantasy,Jonathan Strange and Mr. Norrell,Susanna Clarke,8.2,30/06/2016
+37,Fantasy,A Game of Thrones,George R. R. Martin,7,11/11/2018
+38,Fantasy,A Clash of Kings,George R. R. Martin,7,11/11/2018
+39,Fantasy,A Storm of Swords,George R. R. Martin,8,11/11/2018
+40,Fantasy,A Dance with Dragons,George R. R. Martin,12,11/11/2018
+41,Fantasy,The Hundred Thousand Kingdoms,N.K. Jemisin,18,24/10/2012
+42,Fantasy,Nevernight,Jay Kristoff,13,08/09/2014
+43,Fantasy,Circe,Madeline Miller,12,19/05/2020
+44,Fantasy,Ninth House,Leigh Bardugo,24,26/10/2019
+45,Horror,Carrie,Stephen King,9,28/09/2011
+46,Horror,The Haunting of Hill House,Shirley Jackson,12,14/08/2019
+47,Horror,Bird Box,Josh Malerman,12,14/08/2019
+48,Horror,The Shining,Stephen King,10,28/09/2011
+49,Horror,Pet Sematary,Stephen King,10,28/09/2011
+50,Horror,It,Stephen King,11,28/09/2011
+51,Horror,It,Stephen King,11,28/09/2011
+52,Horror,Joyland,Stephen King,11,15/10/2014
+53,Horror,The Green Mile,Stephen King,11,28/09/2011
+54,Romance,Pride and Prejudice,Jane Austen,18,22/03/2012
+55,Romance,Jane Eyre,Charlotte Bronte,14,17/03/2012
+56,Romance,Shanna,Kathleen E. Woodiwiss,8,17/03/2012
+57,Romance,Morning Glory,Lavyrle Spencer,15,17/03/2012
+58,Romance,Indigo,Beverly Jenkins,17,18/03/2012
+59,Romance,The Viscount Who Loved Me,Julia Quinn,8,19/07/2021
+60,Romance,Bet Me,Jennifer Cruise,24,21/10/2021
+61,Romance,A Hunger Like No Other,Kresley Cole,9,19/07/2021
+62,Romance,Vision in White,Nora Roberts,12,19/07/2021
+63,Romance,The Duchess War,Courtney Milan,13,19/07/2021
+64,Romance,Red White & Royal Blue,Casey McQuiston,10,19/07/2021
+65,Romance,Acting on Impulse,Mia Sosa,9,19/07/2021
+66,Suspence and Thrillers,Gone Girl,Gillian Flynn,16,15/03/2016
+67,Suspence and Thrillers,The 19th Christmas,James Patterson,12,17/04/2010
+68,Suspence and Thrillers,Nine Perfect Strangers,Liane Moriarty,15,21/03/2010
+69,Suspence and Thrillers,Hidden Bodies,Caroline Kepnes,14,30/09/2021
+70,Suspence and Thrillers,The Disappearing Act,Catherine Steadman,12,16/03/2015
+71,Suspence and Thrillers,Falling,T.J. Newman,12,18/10/2017
+72,Suspence and Thrillers,Behind Closed Doors,B.A. Paris,10,18/10/2017
+73,Suspence and Thrillers,The Silent Patient,Alex Michaelides,15,18/10/2017
+74,Suspence and Thrillers,My Sister the Serial Killer,Oyinkan Braithwaite,10,20/12/2020
+75,Suspence and Thrillers,The Wife Between Us,Greer Hendricks,16,01/05/2011
+76,Suspence and Thrillers,The Girl on the Train,Paula Hawkins,14,04/07/2016
+77,History,John Adams,David McCullough,15,16/10/2010
+78,History,1776,David McCullough,15,16/10/2010
+79,History,The Six Wives of Henry VIII,Alison Weir,14,16/10/2011
+80,History,The Radium Girls,Kate Moore,13,16/10/2011
+81,History,The Diary of a Young Girl,Anne Frank,8,16/10/2011
+82,History,Unbowed,Wangari Maathai,16,16/10/2011
+83,History,The Woman Who Smashed Codes,Jason Fagone,14,21/07/2011
+84,History,Spy Princess,Shrabani Basu,69,08/12/2012
+85,History ,Marie Antoinette ,Antonia Fraser,11,08/12/2012
+86,Self-Help,Dare to Lead,Brene Brown,16,05/01/2010
+87,Self-Help,The Self-Love Experiment,Shannon Kaiser,12,26/02/2015
+88,Self-Help,The Self-Care Solution,Jennifer Ashton,13,17/06/2018
+89,Self-Help,What a Time to Be Alone,Chidera Eggerue,13,18/09/2013
+90,Self-Help,Eat Pray Love,Elizabeth Gilbert,15,17/03/2019
+91,Self-Help,The Wisdom of Sundays,Oprah Winfrey,17,18/02/2021
+92,Self-Help,The Course of Love,Alian De Botton,12,18/02/2019
+93,Self-Help,Rich Dad Poor Dad,Robert Kiyosaki,8,18/06/2013
+94,Self-Help,The Intelligent Investor,Benjamin Graham,10,18/06/2013
+95,Self-Help,The Millionaire Fastlane,MJ DeMarco,15,18/06/2013
+96,Cookbooks,Cravings: Hungry for More,Chrissy Teigen,15,19/10/2021
+97,Cookbooks,The Jemima Code,Toni Tipton-Martin,42,19/10/2021
+98,Cookbooks,Mastering the Art of French Cooking,Louisette Bertholle,23,19/10/2021
+99,Cookbooks,Fast Cakes: Easy Bakes in Minutes,Mary Berry,25,19/10/2021
+100,Cookbooks,Flavours of Africa,Evi Aki,13,19/10/2021
