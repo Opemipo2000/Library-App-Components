@@ -65,6 +65,7 @@ class Database:
         else:
             message.delete("1.0",END)
             message.insert(END,"Book could not be checkout as someone is already using it")
+        self.conn.close()
 
     def add_return(self,book_id="",return_date="",member_id="",message=""):
         """ Collects the string passed on from both the Book ID and Memeber ID Entry boxes alongside the current date in dd/mm/yyyy format passed to the return date parameter and the Textbox from the GUI that contains the message
@@ -84,6 +85,7 @@ class Database:
         else:
             message.delete("1.0",END)
             message.insert(END,"Ooops, it seems this book is still in the library please look at the list of books checked out and try again")
+        self.conn.close()
 
     def delete(self):
         """ Removes all the rows from both book and loan tables"""
