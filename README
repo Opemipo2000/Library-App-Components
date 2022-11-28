@@ -1,4 +1,4 @@
-Hi this is student F219244, I hope you have a good time going through this GUI.
+Hi this is my Library Assistant GUI. I hope you have a good time going through this GUI.
 
 First things first there is a Text box in the GUI that will guide you on how to make the best use of the app and all its functionalities.
 
@@ -13,8 +13,6 @@ To Checkout a Book, you'll need to populate the entry boxes of Member ID and Boo
 To Return a Book, the you will need to populate the entry boxes of Member ID and Book ID with valid numbers. To know the right Member id and Book id to put, you can click on the 'List of Books Checked Out' button and derive those numbers from there.
 
 To view the Book Recommendation that includes the graph, click on the 'Book Recommendation' for a pop up screen to appear where u called view the Library most popular books and genre and from that make a choice of which book to add.
-
-However, I was not able to do the Book Reservation option and the Purchase book function with the provision of a budget. As well, if too much activities happens in the GUI my database locks. When that happens you should press the 'Close' button highlighted in red and try restarting the GUI again. After reuploading it then the 'Reset Library Database' will reset the database for normal use.
 
 In the List Box as I ran out of time, the list layout is as follows:
 Book ID|Classics|Title|Author|Purchase Price|Purchase Date
